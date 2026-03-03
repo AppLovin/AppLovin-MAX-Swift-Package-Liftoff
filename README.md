@@ -1,2 +1,2 @@
-# AppLovin MAX - iOS Google Mediation Adapter
-Applovin MAX - iOS Mediation Google AdMob Adapter for Swift Package Manager.
+# AppLovin MAX - iOS Liftoff Mediation Adapter
+Applovin MAX - iOS Mediation Liftoff Monetize Adapter for Swift Package Manager.
