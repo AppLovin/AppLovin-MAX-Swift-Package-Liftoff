@@ -28,8 +28,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppLovinMediationVungleAdapter",
-            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/vungle-adapter/AppLovinMediationVungleAdapter-7.7.6.0.zip",
-            checksum: "701dc52e5782ed273af0ebcfdfa4aad6f2d449d54fa3a9a4be25e3fbfc3bf638"
+            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/vungle-adapter/AppLovinMediationVungleAdapter-7.7.6.1.zip",
+            checksum: "1d31e0fa8be56e19df14a2be4064bc6ab15397e9d360bbd2c1cc4a33e542545a"
         )
     ]
 )
