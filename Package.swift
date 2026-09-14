@@ -6,7 +6,7 @@ import PackageDescription
 
 let package = Package(
     name: "AppLovinMediationVungleAdapter",
-    platforms: [.iOS(.v13)],
+    platforms: [.iOS(.v12)],
     products: [
         .library(
             name: "AppLovinMediationVungleAdapter",
@@ -28,8 +28,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppLovinMediationVungleAdapter",
-            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/vungle-adapter/AppLovinMediationVungleAdapter-7.7.7.0.zip",
-            checksum: "27ee7a6dcf9a48499ddae0f84b9a5539b5576a401358e49b0f6040106b9a1cb3"
+            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/vungle-adapter/AppLovinMediationVungleAdapter-7.7.7.1.zip",
+            checksum: "7ec87985ee4eb51651060c267fe7e58b0f179750fc87e43ced1e6ee6d45a4ac0"
         )
     ]
 )
